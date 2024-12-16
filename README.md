@@ -1,0 +1,4 @@
+# EnergyEfficientWSN
+Wireless Sensor Networks (WSN) are essential in various fields, including environmental monitoring, healthcare, and industrial applications. However, their reliance on battery-powered nodes creates a challenge for energy efficiency. This project focuses on implementing an energy-efficient routing protocol in WSN using OMNeT++, a discrete event network simulator.
+
+We developed a simulated WSN with 1 controller node, 5 sensor nodes, and 8 lamp nodes arranged in a star topology. Our objective was to minimize energy consumption by optimizing packet routing. Configurations and simulations were conducted using OMNeT++ and analyzed for metrics such as energy consumption, throughput, and packet delivery ratio. Results demonstrate a significant reduction in energy consumption, improving the overall network lifetime.
